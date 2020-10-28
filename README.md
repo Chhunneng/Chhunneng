@@ -10,7 +10,7 @@
 ```
 ## Hi there 👋
 
-I am 🤖 **human** and pronouns 😂 **He**.  
+I am 🤖 **human** and pronouns 😂 **NÉNG**.  
 I make weird stuff in ⭐️ [@github](https://github.com/Chhunneng) and publish 🤪 dumb projects.  
 ### Wokring
 I currently working as Website developer, Mobile developer, API and Data Science.
