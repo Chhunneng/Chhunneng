@@ -11,7 +11,7 @@
 ## Hi there 👋
 
 I am 🤖 **human** and pronouns 😂 **NÉNG**.  
-I make weird stuff in ⭐️ [@github](https://github.com/Chhunneng) and publish 🤪 dumb projects.
+I make weird stuff in ⭐️ [@github](https://github.com/Chhunneng) and publish 🤪 dumb projects.  
 I like competition programming and I have won the CS Cup Cambodia that created by Paragon University.
 
 ### Wokring
