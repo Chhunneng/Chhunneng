@@ -31,6 +31,7 @@ Experienced with [@vuejs](http://github.com/vuejs), [@dart-lang](http://github.c
 - Facebook: [@Chrea Chanchhunneng][facebook-url]
 ### Status 
 ![Chhunneng's github stats](https://github-readme-stats.vercel.app/api?username=Chhunneng&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chhunneng&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=Chhunneng&layout=compact&theme=tokyonight)
 <!-- Links -->
 [stackoverflow-url]: https://stackoverflow.com/users/11146261/chanchhunneng-chrea
 [instagram-url]: https://www.instagram.com/chhunneng.heart
