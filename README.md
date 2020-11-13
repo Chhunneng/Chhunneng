@@ -13,7 +13,9 @@
 I am 🤖 **human** and pronouns 😂 **NÉNG**.  
 I make weird stuff in ⭐️ [@github](https://github.com/Chhunneng) and publish 🤪 dumb projects.  
 I like competition programming and I have won the **CS Cup Cambodia** that created by Paragon University.
-
+### Status 
+![Chhunneng's github stats](https://github-readme-stats.vercel.app/api?username=Chhunneng&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chhunneng&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=Chhunneng&layout=compact&theme=tokyonight)
 ### Wokring
 I currently working as Website developer, Mobile developer, API and Data Science.
 
@@ -29,9 +31,7 @@ Experienced with [@vuejs](http://github.com/vuejs), [@dart-lang](http://github.c
 - Stack Overflow: [@Chrea Chanchhunneng][stackoverflow-url]
 - Instagram: [@Chrea Chanchhunneng][instagram-url]
 - Facebook: [@Chrea Chanchhunneng][facebook-url]
-### Status 
-![Chhunneng's github stats](https://github-readme-stats.vercel.app/api?username=Chhunneng&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chhunneng&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=Chhunneng&layout=compact&theme=tokyonight)
+
 <!-- Links -->
 [stackoverflow-url]: https://stackoverflow.com/users/11146261/chanchhunneng-chrea
 [instagram-url]: https://www.instagram.com/chhunneng.heart
