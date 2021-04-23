@@ -26,7 +26,7 @@ Experienced with [@vuejs](http://github.com/vuejs), [@dart-lang](http://github.c
 
 ### Resume
 - LinkedIn: [@Chrea Chanchhunneng][linkedin-url]
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](linkedin-url])
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)]([linkedin-url])
 
 ### Socials
 - Stack Overflow: [@Chrea Chanchhunneng][stackoverflow-url]
