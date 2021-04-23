@@ -31,6 +31,7 @@ Experienced with [@vuejs](http://github.com/vuejs), [@dart-lang](http://github.c
 
 ### Socials
 - Stack Overflow: [@Chrea Chanchhunneng][stackoverflow-url]
+[![Stack Overflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/11146261/chanchhunneng-chrea)
 - Instagram: [@Chrea Chanchhunneng][instagram-url]
 - Facebook: [@Chrea Chanchhunneng][facebook-url]
 ### Repositories
