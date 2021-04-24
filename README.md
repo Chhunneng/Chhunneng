@@ -11,7 +11,7 @@
 ## Hi there 👋 ![View](https://img.shields.io/github/watchers/Chhunneng/Chhunneng.svg)
 
 I am 🤖 **human** and pronouns 😂 **NÉNG**.  
-I make weird stuff in ⭐️ [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github-url] and publish 🤪 dumb projects.  
+I make weird stuff in ⭐️ [@github][github-url] and publish 🤪 dumb projects.  
 I like competition programming and I have won the **CS Cup Cambodia** that created by Paragon University.
 ### Status 
 ![Chhunneng's github stats](https://github-readme-stats.vercel.app/api?username=Chhunneng&show_icons=true&theme=radical)
@@ -33,6 +33,7 @@ Experienced with [@vuejs](http://github.com/vuejs), [@dart-lang](http://github.c
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram-url]
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook-url]
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)][reddit-url]
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github-url]
 
 ### Blogs
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium-url]
