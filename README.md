@@ -20,7 +20,7 @@ I like competition programming and I have won the **CS Cup Cambodia** that creat
 I currently working as Website developer, Mobile developer, API and Data Science.
 
 ### Experience
-I use language Python, ![][c#], C Program, Java, Scala, Kotlin, C#, JavaScript, CSS and Html.
+I use language ![][html] ![][html5] Python, ![][c#], C Program, Java, Scala, Kotlin, C#, JavaScript, CSS and .
 
 Experienced with [@vuejs](http://github.com/vuejs), [@dart-lang](http://github.com/dart-lang), [@flutter](http://github.com/flutter), [@docker](http://github.com/docker), [@Django](https://github.com/django), [@React](https://github.com/facebook/react), [@React-Native](https://github.com/facebook/react-native), [@django-rest-framework](https://github.com/encode/django-rest-framework) and [@graphql](https://github.com/topics/graphql)
 
@@ -61,3 +61,9 @@ Experienced with [@vuejs](http://github.com/vuejs), [@dart-lang](http://github.c
 
 <!-- Badget Links -->
 [c#]:https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+[python]:https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[html]:https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+[css]:https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+[js]:https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[node.js]:https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[html5]:https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
