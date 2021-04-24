@@ -33,7 +33,7 @@ Experienced with [@vuejs](http://github.com/vuejs), [@dart-lang](http://github.c
 ![View](https://img.shields.io/github/watchers/Chhunneng/Chhunneng.svg)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][stackoverflow-url]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram-url]
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][[facebook-url]]
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook-url]
 ### Repositories
 <a href="https://github.com/Chhunneng/competitive-companion">
  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Chhunneng&repo=competitive-companion&theme=radical" />
