@@ -23,7 +23,7 @@ I currently working as Website developer, Mobile developer, API and Data Science
 ![html] ![html5] ![python] ![c#] ![c] ![c++] ![java] ![scala] ![js] ![css] ![php] ![kotlin]
 
 ### Experience
-Experienced with [@vuejs](http://github.com/vuejs), [@dart-lang](http://github.com/dart-lang), [@flutter](http://github.com/flutter), [@docker](http://github.com/docker), [@Django](https://github.com/django), [@React](https://github.com/facebook/react), [@React-Native](https://github.com/facebook/react-native), [@django-rest-framework](https://github.com/encode/django-rest-framework) and [@graphql](https://github.com/topics/graphql)
+![node.js] ![express.js] ![react] ![react-native] ![bootstrap] ![material-ui] ![redux] ![jquery] ![django] ![postgres] ![vue] ![dart] ![flutter] 
 
 ### Resume
 
@@ -84,3 +84,6 @@ Experienced with [@vuejs](http://github.com/vuejs), [@dart-lang](http://github.c
 [jquery]:https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [django]:https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
 [postgres]:https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+[vue]:https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
+[dart]:https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
+[flutter]:https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
