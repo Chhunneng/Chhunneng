@@ -8,7 +8,7 @@
  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ 
                                                                                 
 ```
-## Hi there 👋 ![View](https://img.shields.io/github/watchers/Chhunneng/Chhunneng.svg)
+## Hi there 👋 ![github-follow-url]
 
 I am 🤖 **human** and pronouns 😂 **NÉNG**.  
 I make weird stuff in ⭐️ [@github][github-url] and publish 🤪 dumb projects.  
@@ -59,6 +59,7 @@ I currently working as Website developer, Mobile developer, API and Data Science
 [reddit-url]: https://www.reddit.com/user/Chhunneng
 [medium-url]:https://medium.com/@chreachhunneng
 [github-url]:https://github.com/Chhunneng
+[github-follow-url]:https://img.shields.io/github/followers/Chhunnneng.svg?style=social&label=Follow&maxAge=2592000
 
 <!-- Badget Links -->
 [c#]:https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
