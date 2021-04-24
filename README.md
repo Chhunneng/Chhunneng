@@ -32,13 +32,15 @@ Experienced with [@vuejs](http://github.com/vuejs), [@dart-lang](http://github.c
 ### Socials
 - Stack Overflow: [@Chrea Chanchhunneng][stackoverflow-url]
 [![Stack Overflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/11146261/chanchhunneng-chrea)
+
+[![View](https://img.shields.io/github/watchers/Chhunneng/Chhunneng.svg)]
 - Instagram: [@Chrea Chanchhunneng][instagram-url]
 - Facebook: [@Chrea Chanchhunneng][facebook-url]
 ### Repositories
 <a href="https://github.com/Chhunneng/competitive-companion">
  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Chhunneng&repo=competitive-companion&theme=radical" />
 </a>
-[![View](https://img.shields.io/github/watchers/Chhunneng/Chhunneng.svg)]
+
 <!-- Links -->
 [stackoverflow-url]: https://stackoverflow.com/users/11146261/chanchhunneng-chrea
 [instagram-url]: https://www.instagram.com/chhunneng.heart
