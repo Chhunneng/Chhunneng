@@ -33,7 +33,7 @@ Experienced with [@vuejs](http://github.com/vuejs), [@dart-lang](http://github.c
 - Stack Overflow: [@Chrea Chanchhunneng][stackoverflow-url]
 [![Stack Overflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/11146261/chanchhunneng-chrea)
 
-[View](https://img.shields.io/github/watchers/Chhunneng/Chhunneng.svg)
+![View](https://img.shields.io/github/watchers/Chhunneng/Chhunneng.svg)
 - Instagram: [@Chrea Chanchhunneng][instagram-url]
 - Facebook: [@Chrea Chanchhunneng][facebook-url]
 ### Repositories
