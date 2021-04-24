@@ -8,7 +8,7 @@
  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ 
                                                                                 
 ```
-## Hi there 👋
+## Hi there 👋 ![View](https://img.shields.io/github/watchers/Chhunneng/Chhunneng.svg)
 
 I am 🤖 **human** and pronouns 😂 **NÉNG**.  
 I make weird stuff in ⭐️ [@github](https://github.com/Chhunneng) and publish 🤪 dumb projects.  
@@ -25,12 +25,10 @@ I use language Python, C++, C Program, Java, Scala, Kotlin, C#, JavaScript, CSS 
 Experienced with [@vuejs](http://github.com/vuejs), [@dart-lang](http://github.com/dart-lang), [@flutter](http://github.com/flutter), [@docker](http://github.com/docker), [@Django](https://github.com/django), [@React](https://github.com/facebook/react), [@React-Native](https://github.com/facebook/react-native), [@django-rest-framework](https://github.com/encode/django-rest-framework) and [@graphql](https://github.com/topics/graphql)
 
 ### Resume
-- LinkedIn: [@Chrea Chanchhunneng][linkedin-url]
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chrea-chanchhunneng-11a833168/)
 
 ### Socials
-![View](https://img.shields.io/github/watchers/Chhunneng/Chhunneng.svg)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][stackoverflow-url]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram-url]
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook-url]
