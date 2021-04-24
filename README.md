@@ -20,7 +20,7 @@ I like competition programming and I have won the **CS Cup Cambodia** that creat
 I currently working as Website developer, Mobile developer, API and Data Science.
 
 ### Programming Language
-![html] ![html5] ![python] ![c#] ![c] ![java] ![scala] ![kotlin] ![js] ![css] ![php] ![kotlin]
+![html] ![html5] ![python] ![c#] ![c] ![c++] ![java] ![scala] ![js] ![css] ![php] ![kotlin]
 
 ### Experience
 Experienced with [@vuejs](http://github.com/vuejs), [@dart-lang](http://github.com/dart-lang), [@flutter](http://github.com/flutter), [@docker](http://github.com/docker), [@Django](https://github.com/django), [@React](https://github.com/facebook/react), [@React-Native](https://github.com/facebook/react-native), [@django-rest-framework](https://github.com/encode/django-rest-framework) and [@graphql](https://github.com/topics/graphql)
