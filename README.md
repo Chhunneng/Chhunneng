@@ -20,7 +20,7 @@ I like competition programming and I have won the **CS Cup Cambodia** that creat
 I currently working as Website developer, Mobile developer, API and Data Science.
 
 ### Experience
-I use language Python, C++, C Program, Java, Scala, Kotlin, C#, JavaScript, CSS and Html.
+I use language Python, ![][c#], C Program, Java, Scala, Kotlin, C#, JavaScript, CSS and Html.
 
 Experienced with [@vuejs](http://github.com/vuejs), [@dart-lang](http://github.com/dart-lang), [@flutter](http://github.com/flutter), [@docker](http://github.com/docker), [@Django](https://github.com/django), [@React](https://github.com/facebook/react), [@React-Native](https://github.com/facebook/react-native), [@django-rest-framework](https://github.com/encode/django-rest-framework) and [@graphql](https://github.com/topics/graphql)
 
@@ -50,7 +50,7 @@ Experienced with [@vuejs](http://github.com/vuejs), [@dart-lang](http://github.c
  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Chhunneng&repo=competitive-companion&theme=radical" />
 </a>
 
-<!-- Links -->
+<!-- Social Links -->
 [stackoverflow-url]: https://stackoverflow.com/users/11146261/chanchhunneng-chrea
 [instagram-url]: https://www.instagram.com/chhunneng.heart
 [linkedin-url]: https://www.linkedin.com/in/chrea-chanchhunneng-11a833168/
@@ -58,3 +58,6 @@ Experienced with [@vuejs](http://github.com/vuejs), [@dart-lang](http://github.c
 [reddit-url]: https://www.reddit.com/user/Chhunneng
 [medium-url]:https://medium.com/@chreachhunneng
 [github-url]:https://github.com/Chhunneng
+
+<!-- Badget Links -->
+[c#]:https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
