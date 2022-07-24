@@ -51,6 +51,8 @@ I currently working as *Website developer*, *Mobile developer*, *API* and *Data 
  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Chhunneng&repo=competitive-companion&theme=radical" />
 </a>
 
+<a href="https://app.daily.dev/Chhunneng"><img src="https://api.daily.dev/devcards/c8d02cb378bf45e6a0d9349fd7f7e37e.png?r=xn5" width="400" alt="Chrea Chanchhunneng's Dev Card"/></a>
+
 <!-- Social Links -->
 [stackoverflow-url]: https://stackoverflow.com/users/11146261/chanchhunneng-chrea
 [instagram-url]: https://www.instagram.com/chhunneng.heart
