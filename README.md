@@ -12,11 +12,14 @@
 
 My name pronouns as **NÉNG** or **ネング**.  🥰  
 My competition archievment is 1st rank🥇 of **CS Cup Cambodia 2020** and **2021** .🏆
+
+### Working
+I currently working as *Fullstack developer*
+
 ### Status 
-![Chhunneng's github stats](https://github-readme-stats.vercel.app/api?username=Chhunneng&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chhunneng&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=Chhunneng&layout=compact&theme=tokyonight)
-### Wokring
-I currently working as *Website developer*, *Mobile developer*, *API* and *Data Science*.
+| [![Chhunneng's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Chhunneng\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only) [![Chhunneng's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Chhunneng\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)  | ![](https://github-readme-streak-stats.herokuapp.com/?user=Chhunneng&theme=dark&hide_border=false) |
+| ------------- | ------------- |
+| [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chhunneng&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-stats-pi.vercel.app/api/top-langs/?username=Chhunneng\&layout=compact\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only) [![Top Langs](https://github-stats-pi.vercel.app/api/top-langs/?username=Chhunneng\&layout=compact\&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only) |
 
 ### Programming Language
 ![html] ![html5] ![python] ![c#] ![c] ![c++] ![java] ![scala] ![js] ![css] ![php] ![kotlin]
