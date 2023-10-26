@@ -14,7 +14,7 @@ My name pronouns as **NÉNG** or **ネング**.  🥰
 My competition archievment is 1st rank🥇 of **CS Cup Cambodia 2020** and **2021** .🏆
 
 ### Working
-I currently working as *Fullstack developer*
+I currently working as *Fullstack developer*🧑🏻‍💻
 
 ### Status 
 | [![Chhunneng's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Chhunneng\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only) [![Chhunneng's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Chhunneng\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)  | ![](https://github-readme-streak-stats.herokuapp.com/?user=Chhunneng&theme=dark&hide_border=false) |
