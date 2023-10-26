@@ -21,11 +21,14 @@ I currently working as *Fullstack developer*
 | ------------- | ------------- |
 | [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chhunneng&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-stats-pi.vercel.app/api/top-langs/?username=Chhunneng\&layout=compact\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only) [![Top Langs](https://github-stats-pi.vercel.app/api/top-langs/?username=Chhunneng\&layout=compact\&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only) |
 
+<!--
 ### Programming Language
 ![html] ![html5] ![python] ![c#] ![c] ![c++] ![java] ![scala] ![js] ![css] ![php] ![kotlin]
 
+
 ### Experience
 ![node.js] ![express.js] ![react] ![react-native] ![bootstrap] ![material-ui] ![redux] ![jquery] ![django] ![postgres] ![vue] ![dart] ![flutter] 
+-->
 
 <!--
 ### Resume
