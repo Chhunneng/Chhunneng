@@ -45,6 +45,8 @@ I currently working as *Fullstack developer*🧑🏻‍💻
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github-url]
 -->
 
+[![An image of @chhunneng's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chhunneng)](https://holopin.io/@chhunneng)
+
 ### Blogs
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium-url]
 
