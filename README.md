@@ -11,7 +11,7 @@
 ## Hi there 👋 ![github-follow-url]
 
 My name pronouns as **NÉNG** or **ネング**.  🥰  
-My competition archievment is 1st rank🥇 of **CS Cup Cambodia 2020** and **2021** .🏆
+My competition archievment is 1st rank🥇 of [**CS Cup Cambodia 2020**](https://sites.google.com/paragoniu.edu.kh/cscup/previous-years/cambodia-cs-cup-2020) and [**2021**](https://sites.google.com/paragoniu.edu.kh/cscup/previous-years/cambodia-cs-cup-2021) .🏆
 
 ### Working
 I currently working as *Fullstack developer*🧑🏻‍💻
