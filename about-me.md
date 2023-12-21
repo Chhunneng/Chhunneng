@@ -233,6 +233,7 @@ Saga, SCSS, Redux.
 
 ## Certifications
 
+- [JavaScript Algorithms and Data Structures](https://freecodecamp.org/certification/Chhunneng/javascript-algorithms-and-data-structures) - freeCodeCamp - Dec 2023
 - [DSA with Python](https://programiz.pro/certificates/detail/373D1883BBA9) - Programiz - Dec 2023
 - [DSA: Recursion with Python](https://programiz.pro/certificates/detail/A0016EE6B636) - Programiz - Dec 2023
 - [Learn Python Basics](https://programiz.pro/certificates/detail/3BEF8442509E) - Programiz - Dec 2023
