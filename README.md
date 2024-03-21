@@ -66,8 +66,7 @@ I currently working as *Fullstack developer*🧑🏻‍💻
 </a>
 -->
 
-<a href="https://app.daily.dev/Chhunneng"><img src="https://api.daily.dev/devcards/c8d02cb378bf45e6a0d9349fd7f7e37e.png?r=xn5" width="400" alt="Chrea Chanchhunneng's Dev Card"/></a>
-
+<a href="https://app.daily.dev/chhunneng"><img src="https://api.daily.dev/devcards/v2/s3tHdmoYVP8EIzGMAnF6A.png?r=2be&type=default" width="356" alt="Chrea Chanchhunneng's Dev Card"/></a>
 <!-- Social Links -->
 [stackoverflow-url]: https://stackoverflow.com/users/11146261/chanchhunneng-chrea
 [instagram-url]: https://www.instagram.com/chhunneng.heart
